@@ -1,0 +1,20 @@
+Product Type,Current stock ID,Product name,Condition,Brand,Model Number,Serial,paper_cart,Category,size,metal,weight,partners,Warehouse,unit,Vendor Doc Number,Supplier,dop,tags,Product Cost,Cost Code,Sale Price,MSRP,Quantity,Gallery Images,Thumbnail image,description,external_link,google_link,published,featured,Serial LTR,Age,Dial,Bezel,Band,Screw Count,Band Grade
+WatchI,WI555003,WI555003,Used,Patek Philippe,5990/1A-001,7055463/6146709,Yes,Nautilus,40.5mm,Steel,158.00g,Iss,LA - Main,Per/Pc,None,Angel City,1/17/2022,,"1,60,000.00","4,80,000.00",0,0,1,,,Nautilus 40 Travel Time Chronograph Steel,,,1,0,SCR,2017,Dark Grey Index, Steel Standard, Steel Standard,7s, A
+WatchI,WI555006,WI555006,Used,Patek Philippe,5990/1A-001,7268653/6314996,Yes,Nautilus,40.5mm,Steel,157.00g,Iss,LA - Main,Per/Pc,None,Angel City,03-11-2022,,"1,85,000.00","5,55,000.00","2,30,000.00",0,1,,,Nautilus Travel Time Chronograph 40 Steel,,,1,0,SCR,2019,Black Standard, Steel Standard, Steel Standard,7s, A
+WatchP,WP999269,WP999269,New,Rolex,126300,68X11359,Yes,Datejust,40mm,Steel,121.30g,Bon,LA - Main,Per/Pc,BN-57000,,11-09-2020,,"19,800.00","59,400.00","19,800.00",0,1,,,Datejust 40 New Style Steel Oysterclasp,,,1,0,SCR,2020,Custom Iced out, Custom Diamond, Jubilee Icedout, 11s, A
+WatchP,WP999277,WP999277,New,Rolex,126301,497877S2,Yes,Datejust,40mm,Steel and Rose Gold,146.40g,Bon,LA - Main,Per/Pc,BN-59252,Boneta Inc.,1/27/2021,,"23,100.00","69,300.00","28,500.00",0,1,,,Datejust 40 New Style Two Tone Oysterclasp,,,1,0,SCR,2020,Custom Iced out, Custom Diamond, Oyster,7s, A
+WatchP,WP999290,WP999290,Used,Gigandet,Valjoux 72C,5087,No,Wakmann,36mm,Steel,64.80g,H,FL,Per/Pc,BuyBk 912312,Watch Empire,12-01-2020,,"2,500.00","7,500.00",0,0,1,,,Wakmann Gigandet Chronograph Triple Date,,,1,0,,,Silver Standard,, Standard, 0s, D
+WatchP,WP999299,WP999299,Used,Hublot,301.PM.1780.RX,921939,Yes,Big Bang,44mm,Rose Gold,178.10g,AvidaBH,LA - Main,Per/Pc,352021,Avida,03-05-2021,,"14,000.00","42,000.00","16,000.00","30,400.00",1,,,Big Bang Evolution 44.5 Ceramic Rose Gold,,,1,0,SCR,Mix,Black Carbon Fiber, Ceramic Standard, Rubber, RBR, RBR
+WatchP,WP999301,WP999301,Used,IWC,IW377713,5661493,Yes,Pilot Spitfire,41mm,Steel,130.70g,AvidaBH,LA - Main,Per/Pc,352021,Avida,,,"4,000.00","12,000.00","5,500.00","5,950.00",1,,,Pilot's Chronograph Spitfire Steel,,,1,0,SCR,Mix,Dark Brown Standard, Steel Standard, Leather, LTHR, LTHR
+WatchP,WP999303,WP999303,Used,IWC,IW503301,3916244,No,Portugieser Perpetual Calendar,44mm,White Gold,169.70g,AvidaBH,LA - Main,Per/Pc,352021,Avida,03-05-2021,,"15,000.00","45,000.00","28,000.00","41,100.00",1,,,Portugieser Perpetual 44 Calendar White Gold,,,1,0,SCR,Mix,Dark Gray Standard, Standard WG, Leather, LTHR, LTHR
+WatchP,WP999304,WP999304,Used,Franck Muller,V 45 SC DT TT BR 5N,1371,Yes,Vanguard,44mm,Steel,98.70g,AvidaBH,LA - Main,Per/Pc,352021,Avida,03-05-2021,,"3,500.00","10,500.00","5,000.00","8,200.00",1,,,Vanguard 44 Steel ,,,1,0,SCR,Mix,Brown Arabic, Steel Standard, Leather, LTHR, LTHR
+WatchP,WP999308,WP999308,Used,Rolex,126333,1163C709,No,Datejust,40mm,Steel and Yellow Gold,149.40g,H,LA - Retail,Per/Pc,None,Royal Diamond Import ,5/14/2021,,"14,500.00","43,500.00",0,"13,150.00",1,,,Datejust 40 New Style Two Tone Oysterclasp,,,1,0,SCR,Mix,Champagne Index, Custom Diamond, Jubilee D, 9s, A
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

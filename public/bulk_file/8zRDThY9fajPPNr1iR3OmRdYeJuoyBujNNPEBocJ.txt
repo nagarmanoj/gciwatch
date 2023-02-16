@@ -1,0 +1,22 @@
+Product Type,Current stock ID,Product name,Condition,Brand,Model Number,Serial,paper_cart,Category,size,metal,weight,partners,Warehouse,unit,Vendor Doc Number,Supplier,dop,tags,Product Cost,Cost Code,Sale Price,MSRP,Quantity,Gallery Images,Thumbnail image,description,external_link,google_link,published,featured,Serial LTR,Age,Dial,Bezel,Band,Screw Count,Band Grade
+Watch,W7147,W7147,Used,Audemars Piguet,15407OR.OO.1220OR.01,K26556-AL9796,Yes,Royal Oak,41mm,Rose Gold,228.70g,GCI,LA - Main,Per/Pc,,Watch Empire,12-09-2021,,"2,45,000.00","8,91,800.00",0,"88,000.00",1,,,Royal Oak  41 Double Balance Openworked Rose Gold,,,1,0,K,Mix,Skeleton, Standard RG, Standard Rose Gold, 10s, A
+Watch,W7148,W7148,Used,Rolex,126203,63V52688,Yes,Datejust,36mm,Steel and Yellow Gold,134.40g,GCI,LA - Main,Per/Pc,BN-68398,Boneta Inc.,12/17/2021,,"10,900.00","39,676.00",0,"10,950.00",1,,,Datejust 36 New Style Two Tone Oysterclasp,,,1,0,SCR,2018,Champagne Fluted Motif, Smooth YG, Oyster, 6s, A
+Watch,W7149,W7149,New NS,Rolex,126000,396KN146,Yes,Oyster Perpetual,36mm,Steel,126.40g,GCI,LA - Main,Per/Pc,BuyBk 912485,Watch Empire,12/20/2021,,"9,800.00","35,672.00",0,"5,600.00",1,,,Puster Perpetual 36 Steel ,,,1,0,SCR,2021,Red Coral Index, Smooth, Oyster,7s, A
+Watch,W7154,W7154,Used,Rolex,218238,M683349,No,Day Date,41mm,Yellow Gold,205.80g,GCI,LA - Main,Per/Pc,None,Angel City,12/21/2021,,"39,000.00","1,41,960.00",0,"36,550.00",1,,,Day-Date 41 Yellow Gold,,,1,0,M,2007,Champagne Roman,Fluted YG, President, 8s, A
+Watch,W7156,W7156,New NS,Rolex,126715CHNR,91M145H6,Yes,GMT-Master II,40mm,Rose Gold,221.60g,GCI,LA - Main,Per/Pc,1625,Humble Hustle Corp.,12/21/2021,,"49,000.00","1,78,360.00",0,"38,250.00",1,,,GMT-Master II Rose Gold,,,1,0,SCR,2021,Black Standard, Ceramic Standard, Oyster,7s, A
+Watch,W7160,W7160,Used,Rolex,16013,6319224,Yes,Datejust,36mm,Steel and Yellow Gold,95.00g,GCI,LA - Main,Per/Pc,BuyBk 912488,Fresno Coin Gallery,12/13/2021,,"4,500.00","16,380.00","5,500.00","11,700.00",1,,,Datejust 36 Quick Set Plastic Two Tone,,,1,0,6M,1979,Champagne Stick,Fluted YG, Jubilee D, 4s, C
+Watch,W7161,W7161,Used,Rolex,16030,8353188,No,Datejust,36mm,Steel,90.60g,GCI,LA - Main,Per/Pc,BuyBk 912488,Fresno Coin Gallery,12/13/2021,,"4,000.00","14,560.00","5,000.00","7,300.00",1,,,Datejust 36 Quick Set Plastic Steel,,,1,0,8M,1984,Silver Stick, Engine Turned, Jubilee D, 5s, C
+Watch,W7165,W7165,Used,Rolex,16013,4473569,No,Datejust,36mm,Steel and Yellow Gold,100.90g,GCI,LA - Main,Per/Pc,BuyBk 912489,Fresno Coin Gallery,12/28/2021,,"4,500.00","16,380.00","5,500.00",0,1,,,Datejust 36 Quick Set Plastic Two Tone,,,1,0,4M,1975,Champagne Stick,Fluted YG, Jubilee D, 5s, D
+Watch,W7166,W7166,Used,Rolex,16233,R556127,No,Datejust,36mm,Steel and Yellow Gold,105.00g,GCI,LA - Main,Per/Pc,BuyBk 912489,Fresno Coin Gallery,12/28/2021,,"5,000.00","18,200.00","64,000.00","13,650.00",1,,,Datejust 36 Quick Set Sapphire Two Tone,,,1,0,R,1988,Champagne Diamond,Fluted YG, Jubilee D,7s, D
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

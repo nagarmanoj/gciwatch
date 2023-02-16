@@ -1,0 +1,4 @@
+Product Type,Current stock ID,Product name,Condition,Brand,Model Number,Serial,paper_cart,Category,size,metal,weight,partners,Warehouse,unit,Vendor Doc Number,Supplier,dop,tags,Product Cost,Cost Code,Sale Price,MSRP,Quantity,Gallery Images,Thumbnail image,description,external_link,google_link,published,featured
+Strap,S0020,S0020,New,Horus,RIO 20mm,,No,RIO 20mm,20mm,Rubber - Red Solid,,GCI,LA - Main,Per/Pc,Inv 033667,"Horus Watch Straps, LLC",02/17/2020,Horus-RIO 20mm-RIO 20mm,49.5,148.5,205,205,1,,,Rolex/IWC/OMEGA 20mm,,,1,0
+Strap,S0600,S0600,New,Horus,RIO 20mm,,No,RIO 20mm,20mm,Rubber - Red Solid,,GCI,LA - Main,Per/Pc,33856,"Horus Watch Straps, LLC",11/17/2020,Horus-RIO 20mm-RIO 20mm,33,99,205,205,1,,,Rolex/IWC/OMEGA 20mm,,,1,0
+Strap,S1033,S1033,New,Horus,RIO 20mm,,No,RIO 20mm,20mm,Rubber - Red Solid,,GCI,LA - Main,Per/Pc,34792,"Horus Watch Straps, LLC",08/30/2021,Horus-RIO 20mm-RIO 20mm,41,123,205,205,1,,,Rolex/IWC/OMEGA 20mm,,,1,0

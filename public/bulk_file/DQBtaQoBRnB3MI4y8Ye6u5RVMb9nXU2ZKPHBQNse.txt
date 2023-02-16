@@ -1,0 +1,60 @@
+Product Type,Current stock ID,Product name,Condition,Brand,Model Number,Serial,paper_cart,Category,size,metal,weight,partners,Warehouse,unit,Vendor Doc Number,Supplier,dop,tags,Product Cost,Cost Code,Sale Price,MSRP,Quantity,Gallery Images,Thumbnail image,description,external_link,google_link,published,featured,Serial LTR,Age,Dial,Bezel,Band,Screw Count,Band Grade
+Watch,W6845,W6845,Used,Rolex,16233,W505201,Yes,Datejust 26,36mm,Steel and Yellow Gold,99.10g,GCI,LA - Main,Per/Pc,39912,Ookura,8/17/2021,,"5,300.00","19,292.00","6,350.00","11,700.00",1,,,Datejust 36 Quik Set Sapphire Two Tone,,,1,0,W505201,1996,Champagne Roman,Fluted YG, Jubilee D, 4s, D
+Watch,W6846,W6846,Used,Rolex,16013,9716194,No,Datejust,36mm,Steel and Yellow Gold,98.20g,GCI,LA - Main,Per/Pc,39912,Ookura,8/17/2021,,"4,900.00","17,836.00","5,550.00","11,700.00",1,,,Datejust 36 Quick Set Plastic Two Tone,,,1,0,9M,1986,Champagne Stick,,,,
+Watch,W6847,W6847,Used,Rolex,16233,C110759,No,Datejust,36mm,Steel and Yellow Gold,55.00g,GCI,LA - Main,Per/Pc,39908,Ookura,8/17/2021,,"4,400.00","16,016.00","5,500.00","11,700.00",1,,,Datejust 36 Quick Set Sapphire Two Tone,,,1,0,C,1992,Champagne Stick,Fluted YG, Head only, HO, HO
+Watch,W6848,W6848,Used,Rolex,16233,W505217,Yes,Datejust,36mm,Steel and Yellow Gold,54.80g,GCI,LA - Main,Per/Pc,39913,Ookura,8/17/2021,,"4,700.00","17,108.00","6,000.00","11,700.00",1,,,Datejust 36 Quick Set Sapphire Two Tone,,,1,0,W,1997,Champagne Stick,Fluted YG, Head only, HO, HO
+Watch,W6850,W6850,Used,Rolex,16233,X727149,No,Datejust,36mm,Steel and Yellow Gold,103.80g,GCI,LA - Main,Per/Pc,39912,Ookura,8/17/2021,,"5,200.00","18,928.00","5,800.00","11,700.00",1,,,Datejust 36 Quick Set Sapphire Two Tone,,,1,0,W,1997,Champagne Stick,Fluted YG, Jubilee D, 6s, D
+Watch,W6851,W6851,Used,Rolex,16013,R219351,No,Datejust,36mm,Steel and Yellow Gold,101.80g,GCI,LA - Main,Per/Pc,39914,Ookura,8/17/2021,,"4,500.00","16,380.00","5,850.00","11,700.00",1,,,Datejust 36 Quick Set Plastic Two Tone,,,1,0,R,1988,Champagne Stick,Fluted YG, Jubilee D, 5s, D
+Watch,W6853,W6853,NNS,Rolex,126300,988719X7,Yes,Datejust,40mm,Steel,137.90g,GCI,LA - Main,Per/Pc,39910,Ookura,8/17/2021,,"8,600.00","31,304.00","12,000.00","7,650.00",1,,,Datejust 40 New Style Steel,,,1,0,SCR,2021,Blue Roman, Smooth, Oyster,7s, A
+Watch,W6856,W6856,Used,Rolex,68240,W738346,No,Datejust,31mm,Steel,76.20g,GCI,LA - Main,Per/Pc,39908,Ookura,8/17/2021,,"4,400.00","16,016.00",0,"6,600.00",1,,,Datejust 31 Quick Set Sapphire Steel,,,1,0,W,1995,Blue Roman, Smooth, Oyster, 4s, A
+Watch,W6857,W6857,Used,Rolex,1601,1639501,No,Datejust,36mm,Steel,44.20g,GCI,LA - Main,Per/Pc,39908,Ookura,,,"3,000.00","10,920.00","4,000.00","8,550.00",1,,,Datejust 36 Non Quick Plastic Steel,,,1,0,1M,1962,Silver Stick, Fluted WG, Head only, HO, HO
+Watch,W6858,W6858,Used,Rolex,79173,P113946,No,Datejust,26mm,Steel and Yellow Gold,56.60g,GCI,LA - Main,Per/Pc,39907,Ookura,8/17/2021,,"3,600.00","13,104.00",0,"9,550.00",1,,,Datejust 26 Quick Set Sapphire Two Tone,,,1,0,P,2000,Champagne Stick,Fluted YG, Jubilee D, 5s, A
+Watch,W6859,W6859,Used,Rolex,6917,3549506,No,Datejust,26mm,Steel and Yellow Gold,48.30g,GCI,LA - Main,Per/Pc,39907,Ookura,8/17/2021,,"2,550.00","9,282.00","4,500.00","9,550.00",1,,,Datejust 26 Non Quick Plastic Two Tone,,,1,0,3M,1972,Champagne Stick,Fluted YG, Jubilee B, 0s, D
+Watch,W6860,W6860,Used,Rolex,6917,6059081,No,Datejust,26mm,Steel,47.50g,GCI,LA - Main,Per/Pc,39908,Ookura,8/17/2021,,"2,500.00","9,100.00","4,000.00","7,800.00",1,,,Datejust 26 Non Quick Plastic Steel,,,1,0,6M,1979,Silver Stick, Fluted WG, Jubilee D, 3s, A
+Watch,W6862,W6862,Used,Rolex,69240,S942335,No,Datejust,26mm,Steel,50.80g,GCI,LA - Main,Per/Pc,39909,Ookura,8/17/2021,,"2,950.00","10,738.00",0,"6,750.00",1,,,Datejust 26 Quick Set Sapphire Steel,,,1,0,S,1993,Blue Stick, Engine-Turned, Jubilee D, 5s, A
+Watch,W6863,W6863,Used,Rolex,179174,D220285,No,Datejust,26mm,Steel,67.10g,GCI,LA - Main,Per/Pc,39909,Ookura,8/17/2021,,"4,600.00","16,744.00","6,000.00","9,750.00",1,,,Datejust 26Quick Set Steel Crownclasp,,,1,0,D,2005,Black Diamond, Fluted WG, Jubilee D, 6s, A
+Watch,W6864,W6864,Used,Rolex,6917,3681194,No,Datejust,26mm,Steel,43.40g,GCI,LA - Main,Per/Pc,39909,Ookura,8/17/2021,,"2,200.00","8,008.00","4,000.00","7,800.00",1,,,Datejust 26 Non Quick Plastic Steel,,,1,0,3M,1972,Silver Stick, Fluted WG, Jubilee B, 0s, E
+Watch,W6865,W6865,Used,Rolex,69174,R502066,Yes,Datejust,26mm,Steel,48.50g,GCI,LA - Main,Per/Pc,39912,Ookura,8/17/2021,,"3,000.00","10,920.00","4,850.00","7,800.00",1,,,Datejust 26 Quick Set Sapphire Steel,,,1,0,R,1988,Gray Tapestry Stick, Fluted WG, Jubilee D, 3s, D
+Watch,W6866,W6866,Used,Rolex,1601,1258609,No,Datejust,36mm,Steel,81.50g,GCI,LA - Main,Per/Pc,39913,Ookura,8/17/2021,,"3,300.00","12,012.00",0,"8,850.00",1,,,Datejust 36 Non Quick Plastic Steel,,,1,0,1M,1959,Silver Stick, Fluted WG, Jubilee B, 0s, D
+Watch,W6867,W6867,Used,Rolex,1601,1953945,No,Datejust,36mm,Steel,79.60g,GCI,LA - Main,Per/Pc,39914,Ookura,8/17/2021,,"3,300.00","12,012.00",0,"8,550.00",1,,,Datejust 36 Non Quick Plastic Steel,,,1,0,1M,1966,Silver Stick, Fluted WG, Jubilee B, 0s, D
+Watch,W6869,W6869,NNS,Rolex,228348RBR,3790L6Q7,Yes,Day Date,,Yellow Gold,209.20g,GCI,LA - Main,Per/Pc,12549,Exquisite Jewelers,8/24/2021,,"47,500.00","1,72,900.00","57,000.00","51,950.00",1,,,Day-Date 40 New Style Yellow Gold Diamond Bezel,,,1,0,SCR,2021,Black Motive Diagonal Index, Diamond YG, President, 11s, A
+Watch,W6871,W6871,Used,Rolex,16233,S786772,Yes,Datejust,36mm,Steel and Yellow Gold,105.40g,GCI,LA - Main,Per/Pc,40000,Ookura,09-01-2021,,"4,950.00","18,018.00","6,200.00","11,700.00",1,,,"Datejust 36 Quick Set Sapphire Two Tone
+",,,1,0,S,1993,Champagne Stick,Fluted YG, Jubilee D,7s,B
+Watch,W6877,W6877,Used,Rolex,116710,V442950,No,GMT-Master II,40mm,Steel,78.00g,GCI,LA - Main,Per/Pc,913972,Aziz Diamonds,8/24/2021,,"8,500.00","30,940.00",0,"9,500.00",1,,,"GMT-Master II Ceramic Steel
+",,,1,0,V,2008,Black Standard, Black Ceramic Standard, Head only, HO, HO
+Watch,W6878,W6878,Used,Rolex,1603,1023207,No,Datejust,,Steel,46.90g,GCI,LA - Main,Per/Pc,10977,Iceberg & Co.,8/23/2021,,"3,600.00","13,104.00","4,000.00",0,1,,,"Datejust 36 Non Quick Plastic Steel
+",,,1,0,1M,1958,Silver Stick, Fluted WG, Head only, HO, HO
+Watch,W6881,W6881,Used,Rolex,6623,E158692,No,Cellini,37mm,Yellow Gold,102.00g,GCI,LA - Main,Per/Pc,BuyBk 912452,Alex ,8/16/2021,,"4,500.00","16,380.00",0,0,1,,,"Cellini 37 Yellow Gold
+",,,1,0,E,1990,White Roman, Smooth YG, Standard YG, 5s,B
+Watch,W6882,W6882,Used,Rolex,17000,N358779,No,Datejust,36mm,Steel,125.80g,GCI,LA - Main,Per/Pc,BuyBk 912452,Alex ,8/16/2021,,"2,000.00","7,280.00","4,000.00",0,1,,,"Datejust 36 Quartz Steel
+",,,1,0,N,1991,White Roman, Smooth, Steel Standard, 5s, A
+Watch,W6884,W6884,Used,Rolex,16610,Y795029,No,Submariner,40mm,Steel,130.90g,GCI,LA - Main,Per/Pc,222,CM Timepieces,8/26/2021,,"8,800.00","32,032.00",0,"9,150.00",1,,,"Submariner 40 Date Non Ceramic Steel
+",,,1,0,Y,2002,Black Standard, Black Standard, Oyster, 4s, A
+Watch,W6886,W6886,Used,Rolex,179174,D255728,Yes,Datejust,26mm,Steel,72.60g,GCI,LA - Main,Per/Pc,222,CM Timepieces,8/26/2021,,"3,450.00","12,558.00","6,800.00","7,800.00",1,,,"Datjust 26 New Style Steel
+",,,1,0,D,2007,Black Concentric Roman, Fluted WG, Oyster, 5s, A
+Watch,W6893,W6893,Used,Rolex,16013,8015215,No,Datejust,36mm,Steel and Yellow Gold,99.80g,GCI,LA - Main,Per/Pc,39999,Ookura,09-01-2021,,"4,850.00","17,654.00",0,"11,700.00",1,,,"Datejust 36 Quick Set Plastic Two Tone
+",,,1,0,8M,1983,Linen Champagne Stick,Fluted YG, Jubilee D, 5s, D
+Watch,W6895,W6895,Used,Rolex,16233,R586503,No,Datejust,36mm,Steel and Yellow Gold,101.30g,GCI,LA - Main,Per/Pc,40000,Ookura,09-01-2021,,"6,000.00","21,840.00",0,"13,650.00",1,,,"Datejust 36 Quick Set Sapphire Two Tone
+",,,1,0,R,1998,Blue Vignette Diamond,Fluted YG, Jubilee D, 5s, D
+Watch,W6897,W6897,Used,Rolex,16233,E248235,Yes,Datejust,36mm,Steel and Yellow Gold,98.80g,GCI,LA - Main,Per/Pc,39998,Ookura,09-01-2021,,"5,000.00","18,200.00",0,"13,650.00",1,,,"Datejust 36 Quick Set Sapphire Two Tone
+",,,1,0,E,1990,Champagne Diamond,Fluted YG, Jubilee D, 6s, D
+Watch,W6899,W6899,Used,Rolex,16233,T536047,Yes,Datejust,36mm,Steel and Yellow Gold,103.60g,GCI,LA - Main,Per/Pc,40002,Ookura,09-01-2021,,"5,800.00","21,112.00","12,500.00","13,650.00",1,,,"Datejust 36 Quick Set Sapphire Two Tone
+",,,1,0,T,1997,Champagne Jubilee Diamond,Fluted YG, Jubilee D,7s, D
+Watch,W6900,W6900,Used,Rolex,16233,L868015,No,Datejust,36mm,Steel and Yellow Gold,54.60g,GCI,LA - Main,Per/Pc,39999,Ookura,09-01-2021,,"4,500.00","16,380.00",0,"11,700.00",1,,,"Datejust 36 Quick Set Sapphire Two Tone
+",,,1,0,L,1989,Champagne Stick,Fluted YG, Head only, HO, HO
+Watch,W6901,W6901,Used,Rolex,16234,R632987,No,Datejust,36mm,Steel,94.10g,GCI,LA - Main,Per/Pc,40000,Ookura,09-01-2021,,"4,500.00","16,380.00",0,"8,550.00",1,,,"Datejust 36 Quick Set Sapphire Steel
+",,,1,0,R,1988,Silver Stick, Fluted WG, Jubilee D, 5s, D
+Watch,W6903,W6903,Used,Rolex,16234,S966698,No,Datejust,36mm,Steel,91.00g,GCI,LA - Main,Per/Pc,40000,Ookura,09-01-2021,,"4,900.00","17,836.00","6,300.00","8,550.00",1,,,"Datejust 36 Quick Set Sapphire Steel
+",,,1,0,S,1993,Silver Stick, Fluted WG, Jubilee D, 2s, A
+Watch,W6907,W6907,Used,Rolex,68274,R570861,No,Datejust,31mm,Steel and Yellow Gold,70.00g,GCI,LA - Main,Per/Pc,40000,Ookura,09-01-2021,,"4,300.00","15,652.00",0,"8,050.00",1,,,"Datejust 31 Quick Set Sapphire Steel
+",,,1,0,R,1988,Silver Stick, Fluted WG, Jubilee D, 5s, C
+Watch,W6911,W6911,Used,Rolex,79240,A890686,No,Datejust,26mm,Steel,48.30g,GCI,LA - Main,Per/Pc,39998,Ookura,09-01-2021,,"3,100.00","11,284.00",0,"6,750.00",1,,,"Datejust 26 Quick Set Sapphire Steel
+",,,1,0,A,1999,Blue Stick, Engine Turned, Jubilee D, 2s, A
+Watch,W6912,W6912,Used,Rolex,79174,K304289,Yes,Datejust,26mm,Steel,52.10g,GCI,LA - Main,Per/Pc,39998,Ookura,,,"3,400.00","12,376.00","6,000.00","7,800.00",1,,,"Datejust 26 Quick Set Sapphire Steel
+",,,1,0,K,2001,Pink Roman, Fluted WG, Jubilee D, 5s,B
+Watch,W6913,W6913,Used,Rolex,69178,E721024,Yes,Datejust,26mm,Yellow Gold,75.30g,GCI,LA - Main,Per/Pc,39998,Ookura,09-01-2021,,"6,600.00","24,024.00",0,0,1,,,"Datejust 26 Quick Set Yellow Gold
+",,,1,0,E,1991,Champagne Jubilee Diamond, Custom Diamond, President, 6s, E
+Watch,W6915,W6915,Used,Rolex,68279,R380450,No,Datejust,31mm,White Gold,105.10g,GCI,LA - Main,Per/Pc,40002,Ookura,09-01-2021,,"11,500.00","41,860.00",0,0,1,,,"Datejust 31 Quick Set White Gold
+",,,1,0,R,1988,Custom Full Pave Ruby Marker, Custom Diamond, President, 4s, A
+Watch,W6919,W6919,Used,Rolex,16030,5714110,No,Datejust,36mm,Steel,48.30g,GCI,LA - Main,Per/Pc,226,CM Timepieces,09-02-2021,,"3,500.00","12,740.00",0,"8,550.00",1,,,Datejust 36 Quick Set Pastic Steel,,,1,0,5M,1978,Silver Stick,Fluted YG,Head Only,HO,HO
+Watch,W6920,W6920,Used,Rolex,79173,Y164514,No,Datejust,26mm,Steel and Yellow Gold,56.10g,GCI,LA - Main,Per/Pc,226,CM Timepieces,09-02-2021,,"3,850.00","14,014.00",0,0,1,,,Datejust 26 Quick Set Saffhire Two Tone,,,1,0,Y,2002,Silver Diamond,Fluted YG,Jubilee D,5s,A

@@ -1,0 +1,4 @@
+Product Type,Current stock ID,Product name,Condition,Brand,Model Number,Serial,paper_cart,Category,size,metal,weight,partners,Warehouse,unit,Vendor Doc Number,Supplier,dop,tags,Product Cost,Cost Code,Sale Price,MSRP,Quantity,Gallery Images,Thumbnail image,description,external_link,google_link,published,featured,Serial LTR,Age,Dial,Bezel,Band,Screw Count,Band Grade
+Watch,W7805,W7801,Used,Rolex,116610LN,7LE19777,No,Submariner,40mm,Steel,155.6,GCI,Tex,Per/Pc,132640,Harout,4/13/2022,Rolex-116610LN-Submariner,11800,42952,15000,10100,1,,,Submariner 40 Date Ceramic Steel,,,1,1,SCR,Mix,Black Standard, Blue Ceramic Standard, Oyster, 8s, A
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

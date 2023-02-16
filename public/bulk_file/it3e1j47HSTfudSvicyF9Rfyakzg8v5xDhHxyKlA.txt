@@ -1,0 +1,7 @@
+Product Type,Current stock ID,Product name,Condition,Brand,Model Number,Serial,paper_cart,Category,size,metal,weight,partners,Warehouse,unit,Vendor Doc Number,Supplier,dop,tags,Product Cost,Cost Code,Sale Price,MSRP,Quantity,Gallery Images,Thumbnail image,description,external_link,google_link,published,featured,Serial LTR,Age,Dial,Bezel,Band,Screw Count,Band Grade
+Watch,W7828,W7828,New,Rolex,326235,6E3382C12,Yes,Sky-Dweller,42mm,Rose Gold,198,GCI,Las,Per/Pc,,Shabtai Trading Inc.,4/25/2022,Rolex-326235-Sky-Dweller,52000,189280,60000,189280,1,,,Sky-Dweller 42 Rose Gold Oysterflex,,,1,0,SCR,2022,Chocolate Index, Fluted RG," Oysterflex
+", RBR, RBR
+Watch,W7829,W7829,New,Rolex,326235,6E3382C13,Yes,Sky-Dweller,42mm,Rose Gold,198,GCI,Las,Per/Pc,,Shabtai Trading Inc.,4/25/2022,Rolex-326235-Sky-Dweller,52000,189280,60000,189280,1,,,Sky-Dweller 42 Rose Gold Oysterflex,,,1,0,SCR,2022,Chocolate Index, Fluted RG," Oysterflex
+", RBR, RBR
+Watch,W7830,W7830,New,Rolex,326235,6E3382C14,Yes,Sky-Dweller,42mm,Rose Gold,198,GCI,Las,Per/Pc,,Shabtai Trading Inc.,4/25/2022,Rolex-326235-Sky-Dweller,52000,189280,60000,189280,1,,,Sky-Dweller 42 Rose Gold Oysterflex,,,1,0,SCR,2022,Chocolate Index, Fluted RG," Oysterflex
+", RBR, RBR

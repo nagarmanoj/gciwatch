@@ -1,0 +1,12 @@
+Product Type,Current stock ID,Product name,Condition,Brand,Model Number,Serial,paper_cart,Category,size,metal,weight,partners,Warehouse,unit,Vendor Doc Number,Supplier,dop,tags,Product Cost,Cost Code,Sale Price,MSRP,Quantity,Gallery Images,Thumbnail image,description,external_link,google_link,published,featured,Preset/SPV,Pts,Prong,Dia Ct Wt,Stone Count,Stone Size
+Bezel,BZ1011,BZ1011,New,Custom,BZ36-14YG20-2P,,,Bezel,36mm,14K-Yellow Gold,14.12,GCI,LA - Main,Per/Gr,,Precisdor Inc.,,,820.8,2462.4,1231.2,1231.2,1,,,BZ36-14YG20-2P,,,0,0, Preset,,P,,28,20pts
+Bezel,BZ1012,BZ1012,New,Custom,BZ41-14WG07-2P,,,Bezel,41mm,14k-White Gold,11.9,GCI,LA - Main,Per/Gr,,Precisdor Inc.,,,691.75,2075.25,1037.62,1037.62,1,,,BZ41-14WG07-2P,,,0,0, Preset,,,,42,7pts
+Bezel,BZ1024,BZ1024,New,Custom,BZ36-18WG04-2P,,,Bezel,36mm,18k-White Gold,8.2,GCI,LA - Main,Per/Gr,,,,,436.67,1310.01,655.01,,1,,,BZ36-18WG04-2P,,,0,0,Preset,4pts,2P,,44,
+Bezel,BZ1037,BZ1037,New,Custom,BZ40-ALLY07-U,,,Bezel,40mm,Alloy,,GCI,LA - Main,Per/Gr,,,,,190,570,285,,1,,,BZ40-ALLY07-U,,,0,0,SPV,7pts,UP,,42,
+Bezel,BZ1039,BZ1039,New,Custom,BZ31-14RG02-4P,,,Bezel,31mm,14k-Rose Gold,4.2,GCI,LA - Main,Per/Gr,,Precisdor Inc.,,,244.15,732.45,366.22,366.22,1,,,BZ31-14RG02-4P,,,0,0, Preset,,P,,48,2pts
+Bezel,BZ1063,BZ1063,New,Custom,BZ26-18WG02-2P,,,Bezel,26mm,18k-White Gold,4.08,GCI,LA - Main,Per/Gr,,Precisdor Inc.,,,279.93,839.79,419.9,419.9,1,,,BZ26-18WG02-2P,,,0,0, Preset,,P,,40,2pts
+Bezel,BZ1064,BZ1064,New,Custom,BZ26-18WG02-2P,,,Bezel,26mm,18k-White Gold,4.04,GCI,LA - Main,Per/Gr,,Precisdor Inc.,,,277.18,831.54,415.78,415.78,1,,,BZ26-18WG02-2P,,,0,0, Preset,,P,,40,2pts
+Bezel,BZ1067,BZ1067,New,Custom,BZ31-18WG02-2P,,,Bezel,31mm,18k-White Gold,5.29,GCI,LA - Main,Per/Gr,,Precisdor Inc.,,,362.95,1088.85,544.42,544.42,1,,,BZ31-18WG02-2P,,,0,0, Preset,,P,,48,2pts
+Bezel,BZ1068,BZ1068,New,Custom,BZ31-18WG02-2P,,,Bezel,31mm,18k-White Gold,5.35,GCI,LA - Main,Per/Gr,,Precisdor Inc.,,,367.06,1101.18,550.6,550.6,1,,,BZ31-18WG02-2P,,,0,0, Preset,,P,,48,2pts
+Bezel,BZ1070,BZ1070,New,Custom,BZ29-18YG02-2P,,,Bezel,34mm,18k-Yellow Gold,6.08,GCI,LA - Main,Per/Gr,,Precisdor Inc.,,,417.15,1251.45,625.73,625.73,1,,,BZ29-18YG02-2P,,,0,0, Preset,,P,,52,2pts
+Bezel,BZ1072,BZ1072,New,Custom,BZ29-18WG02-2P,,,Bezel,34mm,18k-White Gold,5.6,GCI,LA - Main,Per/Gr,,Precisdor Inc.,,,384.22,1152.66,576.33,576.33,1,,,BZ29-18WG02-2P,,,0,0, Preset,,P,,52,2pts

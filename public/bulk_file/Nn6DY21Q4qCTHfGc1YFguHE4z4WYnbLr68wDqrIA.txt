@@ -1,0 +1,101 @@
+Product Type,Current stock ID,Product name,Condition,Brand,Model Number,Serial,paper_cart,Category,size,metal,weight,partners,Warehouse,unit,Vendor Doc Number,Supplier,dop,tags,Product Cost,Cost Code,Sale Price,MSRP,Quantity,Gallery Images,Thumbnail image,description,external_link,google_link,published,featured,Serial LTR,Age,Dial,Bezel,Band,Screw Count,Band Grade
+Watch,W5623,W5623,Used,Rolex,116203,M87530,Yes,Datejust,36mm,Steel and Yellow Gold,127.50g,GCI,LA - Main,Per/Pc,82520,,8/25/2020,,"7,750.00","28,210.00","11,500.00","12,900.00",1,,,Datejust 36 New Style Two Tone,,,1,0,D,2005,Champagne Roman, Smooth, Oyster, 4s, A
+Watch,W5638,W5638,New,Rolex,116610LN,M87531,Yes,Submariner,40mm,Steel,162.80g,GCI,LA - Main,Per/Pc,1004,,8/26/2020,,"12,150.00","44,226.00","16,000.00","8,950.00",1,,,Submariner Ceramic Steel,,,1,0,SCR,2020,Black Standard,, Oyster, 9s, A
+Watch,W5655,W5655,Used,Rolex,178274,M87532,Yes,Datejust,31mm,Steel,90.90g,GCI,LA - Main,Per/Pc,8192020,,8/19/2020,,"7,000.00","25,480.00","9,800.00","9,500.00",1,,,Datejust 31 New Style Steel,,,1,0,SCR,2015,Black Diamond, Fluted WG, Oyster, 4s, A
+Watch,W5700,W5700,Used,Rolex,116334,M87533,Yes,Datejust,41mm,Steel,146.10g,GCI,LA - Main,Per/Pc,84976,,9/2/2020,,"8,500.00","30,940.00","12,000.00","9,650.00",1,,,Datejust 41 New Style Steel,,,1,0,SCR,2013,Silver Diamond, Fluted WG, Oyster, 6s, A
+Watch,W5730,W5730,Used,Rolex,116234,M87534,Yes,Datejust,36mm,Steel,117.80g,GCI,LA - Main,Per/Pc,0119-12190,,9/9/2020,,"6,432.00","23,412.48","7,718.40","8,550.00",1,,,Datejust 36 New Style Steel,,,1,0,V,2010,Blue Tuxedo Arabic,Fluted WG,Jubilee D,7s,A
+Watch,W5732,W5732,Used,Rolex,69173,M87535,Yes,Datejust,26mm,Steel and Yellow Gold,55.70g,GCI,LA - Main,Per/Pc,3210,,9/11/2020,,"2,500.00","9,100.00","3,500.00","8,700.00",1,,,Datejust 26 Quick Set Sapphire Two Tone,,,1,0,8M,1985,Black Stick,Fluted YG,Jubilee,5s,E
+Watch,W5742,W5742,New NS,Rolex,116610LV,M87536,Yes,Submariner Ceramic Date,40mm,Steel,160.70g,GCI,LA - Main,Per/Pc,1041,,9/9/2020,,"21,500.00","78,260.00","25,800.00","9,350.00",1,,,Submariner Ceramic Steel,,,1,0,SCR,2020,Green Standard,Green Ceramic Standard,Oyster,7s,A
+Watch,W5753,W5753,Used,Rolex,16014,M87537,Yes,Datejust,36mm,Steel,90.20g,GCI,LA - Main,Per/Pc,9142020,,9/14/2020,,"3,700.00","13,468.00","4,440.00",0,1,,,Datejust 36 Quick Set Plastic Steel,,,1,0,S,1985,Black Stick,Fluted WG,Jubilee,4s,E
+Watch,W5768,W5768,Used,Rolex,1501,M87538,No,Date,34mm,Steel PVD,53.50g,GCI,LA - Main,Per/Pc,9182020,,9/18/2020,,"3,300.00","12,012.00","8,500.00",0,1,,,Date 34 Non Quick Plastic Steel PVD  Sunset Custom,,,1,0,3M,1959,Custom Sunset Stick, Engine Turned, Painted LTHR, LTHR, LTHR
+Watch,W5769,W5769,Used,Rolex,16750,M87539,No,GMT-Master,40mm,Steel,101.00g,GCI,LA - Main,Per/Pc,5051259,,9/21/2020,,"13,800.00","50,232.00","18,000.00","9,700.00",1,,,GMT-Master Non Ceramic Steel,,,1,0,6M,1980,Black Standard, Pepsi Standard, Jubilee D, 6s, C
+Watch,W5771,W5771,Used,Rolex,126333,M87540,Yes,Datejust,40mm,Steel and Yellow Gold,149.70g,GCI,LA - Main,Per/Pc,92220,,9/22/2020,,"11,300.00","41,132.00",0,"13,250.00",1,,,Datejust 40 New Style Two Tone Oysterclasp,,,1,0,SCR,2018,Silver Index,Fluted YG,Jubilee D,6s,A
+Watch,W5772,W5772,Used,Rolex,116233,M87541,Yes,Datejust,36mm,Steel and Yellow Gold,132.00g,GCI,LA - Main,Per/Pc,92220,,9/22/2020,,"8,150.00","29,666.00","13,000.00","11,700.00",1,,,Datejust 36 New Style Two Tone,,,1,0,V,2010,Champagne Jubilee Diamond,Fluted YG, Jubilee D, 8s, A
+Watch,W5795,W5795,Used,Rolex,1803,M87542,No,Day-Date,36mm,Yellow Gold,55.90g,GCI,LA - Main,Per/Pc,3254,,9/22/2020,,"4,850.00","17,654.00","5,820.00","31,150.00",1,,,Day-Date 36 Non Quick Plastic Yellow Gold,,,1,0,4M,1974,Custom Black Diamond 8+2,Custom Diamond,Head Only,HO,HO
+Watch,W5825,W5825,Used,Rolex,18038,M87543,No,Day-Date,36mm,Yellow Gold,135.30g,GCI,LA - Main,Per/Pc,1137,,9/24/2020,,"13,215.00","48,102.60",0,"36,150.00",1,,,Day-Date 36 Single Quick Yellow Gold,,,1,0,R,1988,Tiffany Blue Marm, Custom Diamond, President, 8s,B
+Watch,W5832,W5832,Used,Rolex,18038,M87544,No,Day-Date,36mm,Yellow Gold,132.40g,GCI,LA - Main,Per/Pc,BN-55943,,10/1/2020,,"11,850.00","43,134.00","14,850.00","31,150.00",1,,,Day-Date 36 Single Quick Yellow Gold,,,1,0,8M,1983,Champagne Linen Stick,Fluted YG, President, 5s, C
+Watch,W5917,W5917,Used,Rolex,6917,M87545,No,Datejust,26mm,Yellow Gold,28.50g,GCI,LA - Main,Per/Pc,Invoice 1242,,10/15/2020,,"1,950.00","7,098.00",0,0,1,,,Datejust 26 Non Quick Plastic Yellow Gold,,,1,0,6M,1980,Champagne Stick,Fluted YG,Head Only,HO,HO
+Watch,W5918,W5918,Used,Rolex,6927,M87546,No,Datejust,26mm,Yellow Gold,65.50g,GCI,LA - Main,Per/Pc,10142020,,10/14/2020,,"4,000.00","14,560.00",0,0,1,,,Datejust 26 Non Quick Plastic Yellow Gold,,,1,0,5M,1978,Champagne Stick,Bark YG,President Center Bark,6s,B
+Watch,W5927,W5927,Used,Rolex,1600,M87547,No,Datejust,36mm,Steel,77.40g,GCI,LA - Main,Per/Pc,20201017,,10/17/2020,,"3,200.00","11,648.00",0,"7,300.00",1,,,Datejust 36 Non Quick Plastic Steel,,,1,0,1M,1958,Black Stick,Smooth,Jubilee B,0s,D
+Watch,W5942,W5942,Used,Rolex,1803,M87548,No,Day-Date,36mm,Yellow Gold,54.60g,GCI,LA - Main,Per/Pc,CK3673,,10/20/2020,,"5,000.00","18,200.00",0,"33,150.00",1,,,Day-Date 36 Non Quick Plastic Yellow Gold,,,1,0,1M,1965,Champagne Diamond 8+2,Custom Diamond,Head Only,HO,HO
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,9 @@
+Product Type,Current stock ID,Product name,Condition,Brand,Model Number,Serial,paper_cart,Category,size,metal,weight,partners,Warehouse,unit,Vendor Doc Number,Supplier,dop,tags,Product Cost,Cost Code,Sale Price,MSRP,Quantity,Gallery Images,Thumbnail image,description,external_link,google_link,published,featured,Serial LTR,Age,Dial,Bezel,Band,Screw Count,Band Grade
+Watch,W6956,W6956,Used,Rolex,69173,R536703,No,Datejust,26mm,Steel and Yellow Gold,55.20g,GCI,LA - Main,Per/Pc,236,CM Timepieces,9/30/2021,,"3,100.00","11,284.00",0,"9,550.00",1,,,Datejust 26 Quick Set Sapphire Two Tone,,,1,0,R,1988,Blue Jubilee Arabic,Fluted YG, Jubilee D, 6s,B
+Watch,W6966,W6966,Used,Rolex,228238,7980D6A7,No,Day Date,41mm,Yellow Gold,205.40g,GCI,LA - Main,Per/Pc,BuyBk 912459,Watch Empire,10-05-2021,,"38,000.00","1,38,320.00",0,"36,550.00",1,,,Day-Date 41 Yellow Gold,,,1,0,SCR,Mix,Champagne Index,Fluted YG, President, 10s, A
+Watch,W6968,W6968,Used,Rolex,18038,6307361,No,Day Date,36mm,Yellow Gold,134.40g,GCI,LA - Main,Per/Pc,Buy Bk 912461,Brickell Watches,10-01-2021,,"13,300.00","48,412.00",0,"36,150.00",1,,,Day-Date 36 Single Quick Yellow Gold,,,1,0,6M,1979,Full Pave Ruby Marker, Custom Diamond, President, 2s,B
+Watch,W6972,W6972,NNS,Rolex,126711CHNR,VL214472,Yes,GMT-Master II,40mm,Steel and Rose Gold,168.30g,GCI,LA - Main,Per/Pc,17285,Time Passion Miami,10-05-2021,,"21,500.00","78,260.00","24,000.00","14,800.00",1,,,GMT-Master II Two Tone ,,,1,0,SCR,2021,Black Standard, Ceramic Standard, Oyster,7s, A
+Watch,W6981,W6981,Used,Rolex,1803,1807653,No,Day Date,36mm,Yellow Gold,119.70g,GCI,LA - Main,Per/Pc,BuyBk 912456,,9/13/2021,,"7,500.00","27,300.00","17,000.00",0,1,,,Day-Date 36 Non Quick Plastic Yellow Gold,,,1,0,1M,1965,Champagne Diamond 8+2, Custom Diamond, President, 2s, C
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+Product Type,Current stock ID,Product name,Condition,Brand,Model Number,Serial,paper_cart,Category,size,metal,weight,partners,Warehouse,unit,Vendor Doc Number,Supplier,dop,tags,Product Cost,Cost Code,Sale Price,MSRP,Quantity,Gallery Images,Thumbnail image,description,external_link,google_link,published,featured,Serial LTR,Age,Dial,Bezel,Band,Screw Count,Band Grade
+Watch,W6458,W6458,NNS,Rolex,178271,053S6651,Yes,Datejust,31mm,Steel and Rose Gold,104.90g,GCI,LA - Main,Per/Pc,18963,Maxed Time Llc.,4/7/2021,,9350,34034,11500,0,1,,,Datejust 31 New Style Two Tone,,,1,0,SCR,2021,Silver Index, Fluted RG, Jubilee D, 9s, A
+Watch,W6463,W6463,Used,Rolex,116233,V695764,Yes,Datejust,36mm,Steel and Yellow Gold,121.00g,GCI,LA - Main,Per/Pc,412021,Luxury Times LLC.,4/1/2021,,6850,24934,11500,11700,1,,,Datejust 36 Crownclasp Two Tone ,,,1,0,V,2009,White Index,Fluted YG, Jubilee D, 2s, A
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,Boneta Inc.,3/26/2021,,4000,14560,,,,,,,,,,,,,,,,,

@@ -1,0 +1,2 @@
+Product Type,Current stock ID,Product name,Condition,Brand,Model Number,Serial,paper_cart,Category,size,metal,weight,partners,Warehouse,unit,Vendor Doc Number,Supplier,dop,tags,Product Cost,Cost Code,Sale Price,MSRP,Quantity,Gallery Images,Thumbnail image,description,external_link,google_link,published,featured
+Strap,S1154,S1154,New,Horus,AP 42D,,,AP 42D,42mm,Rubber - Navy Blue Solid,,GCI,LA - Main,Per/Pc,,"Horus Watch Straps, LLC",4/29/2022,Horus-AP 42D-AP42D,49,147,245,245,1,,,Horus AP 42 Navy Blue,,,1,0

@@ -1,0 +1,10 @@
+Product Type,Current stock ID,Product name,Condition,Brand,Model Number,Serial,paper_cart,Category,size,metal,weight,partners,Warehouse,unit,Vendor Doc Number,Supplier,dop,tags,Product Cost,Cost Code,Sale Price,MSRP,Quantity,Gallery Images,Thumbnail image,description,external_link,google_link,published,featured
+Strap,S4,S4,New,Horus,AP 42D,,No,AP 42D,42mm,Rubber - Forest Green Solid,,GCI,LA - Main,Per/Pc,1234567,"Horus Watch Straps, LLC",4/11/2022,,41,149.24,245,245,1,,,"
+  Rubber -
+  Forest Green Solid",,,1,1
+Strap,S5,S5,New,Horus,AP 42D,,No,AP 42D,42mm,Rubber - Forest Green Solid,,GCI,LA - Main,Per/Pc,1234567,"Horus Watch Straps, LLC",4/11/2022,,41,149.24,245,245,1,,,"
+  Rubber -
+  Forest Green Solid",,,1,1
+Strap,S6,S6,New,Horus,AP 42D,,No,AP 42D,42mm,Rubber - Forest Green Solid,,GCI,LA - Main,Per/Pc,12345678,"Horus Watch Straps, LLC",4/11/2022,,41,149.24,245,245,1,,,"
+  Rubber -
+  Forest Green Solid",,,1,1

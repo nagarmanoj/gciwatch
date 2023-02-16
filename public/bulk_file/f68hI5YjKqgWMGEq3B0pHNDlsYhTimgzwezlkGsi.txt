@@ -1,0 +1,4 @@
+Product Type,Current stock ID,Product name,Condition,Brand,Model Number,Serial,paper_cart,Category,size,metal,weight,partners,Warehouse,unit,Vendor Doc Number,Supplier,dop,tags,Product Cost,Cost Code,Sale Price,MSRP,Quantity,Gallery Images,Thumbnail image,description,external_link,google_link,published,featured
+Strap,S13,S13,New,Horus,AP 42D - Graphite Digi,,No,AP 42D,42mm,Rubber - Graphite Digi,,GCI,Las,Per/Pc,,Hilal,4/21/2022,Horus-AP 42D-Graphite Digi-AP 42D,50,182,265,265,,,,AP 42 Deployment Strap,,,1,0
+Strap,S14,S14,New,Horus,AP 42D - Graphite Digi,,No,AP 42D,42mm,Rubber - Graphite Digi,,GCI,Las,Per/Pc,,Hilal,4/21/2022,Horus-AP 42D-Graphite Digi-AP 42D,50,182,265,265,,,,AP 42 Deployment Strap,,,1,0
+Strap,S15,S15,New,Horus,AP 42D - Graphite Digi,,No,AP 42D,42mm,Rubber - Graphite Digi,,GCI,Las,Per/Pc,,Hilal,4/21/2022,Horus-AP 42D-Graphite Digi-AP 42D,50,182,265,265,,,,AP 42 Deployment Strap,,,1,0

@@ -1,0 +1,10 @@
+Product Type,Current stock ID,Product name,Condition,Brand,Model Number,Serial,paper_cart,Category,size,metal,weight,partners,Warehouse,unit,Vendor Doc Number,Supplier,dop,tags,Product Cost,Cost Code,Sale Price,MSRP,Quantity,Gallery Images,Thumbnail image,description,external_link,google_link,published,featured,Serial LTR,Age,Dial,Bezel,Band,Screw Count,Band Grade
+Watch,W7099,W7099,Used,Rolex,178274,340K15H4,Yes,Datejust,31mm,Steel,80.40g,GCI,LA - Main,Per/Pc,12221,"Doug Gruenberg, Inc.",12-02-2022,,"7,700.00","28,028.00",0,"8,050.00",1,,,Datejust 31 New Style Steel Crownclasp,,,1,0,SCR,2014,Blue Roman, Fluted WG, Jubilee D, 5s, A
+Watch,W7102,W7102,New NS,Rolex,126303,Y209R885,Yes,Datejust,40mm,Steel and Yellow Gold,151.90g,GCI,LA - Main,Per/Pc,BuyBk 912479,Sako,12-03-2021,,"14,450.00","52,598.00",0,"14,450.00",1,,,Datejust 40 New Style Two Tone Oysterclasp,,,1,0,SCR,2021,Champagne Diamond, Smooth YG, Oyster,7s, A
+Watch,W7107,W7107,Used,Rolex,16030,8707832,No,Datejust,36mm,Steel,109.70g,GCI,LA - Main,Per/Pc,CM7988,AJ Rosenberg,12-03-2021,,"2,650.00","9,646.00",0,"7,300.00",1,,,Datejust 36 Quick Set Sapphire Steel,,,1,0,8M,1984,Custom Black Diamond, Custom Diamond, Custom Diamond Center, 4s,B
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

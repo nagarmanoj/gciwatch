@@ -1,0 +1,12 @@
+Product Type,Current stock ID,Product name,Condition,Brand,Model Number,Serial,paper_cart,Category,size,metal,weight,partners,Warehouse,unit,Vendor Doc Number,Supplier,dop,tags,Product Cost,Cost Code,Sale Price,MSRP,Quantity,Gallery Images,Thumbnail image,description,external_link,google_link,published,featured,Serial LTR,Age,Dial,Bezel,Band,Screw Count,Band Grade
+Watch,W6701,W6701,Used,Rolex,126300,9713S631,Yes,Datejust,40mm,Steel,129.20g,GCI,LA - Main,Per/Pc,61821,"Doug Gruenberg, Inc.",6/18/2021,,"14,250.00","51,870.00","21,500.00",0,1,,,,,,1,0,SCR,2018,Full Pave Roman, Custom Diamond," Oyster Icedout
+
+",7s, A
+Watch,W6713,W6713,NNS,Rolex,126301,4A8143R7,Yes,Datejust,40mm,Steel and Rose Gold,147.40g,GCI,LA - Main,Per/Pc,5846,G-Time Inc.,7/14/2021,,"13,700.00","49,868.00",0,"14,750.00",1,,,Datejust 40 New Style Two Tone Oysterclasp,,,1,0,SCR,2020,Sundust Diamond, Smooth, Oyster,7s, A
+Watch,W6714,W6714,Used,Rolex,16013,8876945,Yes,Datejust,36mm,Steel and Yellow Gold,106.00g,GCI,LA - Main,Per/Pc,5846,G-Time Inc.,7/14/2021,,"4,550.00","16,562.00",0,"11,700.00",1,,,Datejust 36 Quick Set Plastic Two Tone,,,1,0,8M,1985,Blue Stick,Fluted YG,Jubilee D,5s,F
+Watch,W6716,W6716,Used,Rolex,116400,V787053,Yes,Milgauss,40mm,Steel PVD,152.80g,GCI,LA - Main,Per/Pc,16822,Time Passion Miami,7/14/2021,,"9,000.00","32,760.00",0,"8,300.00",1,,,Milgauss 40 Steel Black PVD,,,1,0,V,2010,Blacj Index, Smooth, Oyster, 5s, A
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

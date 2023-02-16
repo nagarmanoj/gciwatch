@@ -1,0 +1,9 @@
+Product Type,Current stock ID,Product name,Condition,Brand,Model Number,Serial,paper_cart,Category,size,metal,weight,partners,Warehouse,unit,Vendor Doc Number,Supplier,dop,tags,Product Cost,Cost Code,Sale Price,MSRP,Quantity,Gallery Images,Thumbnail image,description,external_link,google_link,published,featured,Serial LTR,Age,Dial,Bezel,Band,Screw Count,Band Grade
+Watch,W6544,W6544,Used,Rolex,116234,L7097868,Yes,Datejust,36mm,Steel,115.40g,GCI,LA - Main,Per/Pc,5102021,"Doug Gruenberg, Inc.",05-10-2021,,"7,900.00","28,756.00","10,500.00","10,500.00",1,,,,,,1,0,SCR,2017,Black Roman, Fluted WG, Jubilee D, 8s, A
+Watch,W6545,W6545,Used,Rolex,116200,97S65506,Yes,Datejust,36mm,Steel,122.40g,GCI,LA - Main,Per/Pc,5102021,"Doug Gruenberg, Inc.",05-10-2021,,"6,500.00","23,660.00","7,850.00","7,300.00",1,,,Datejust 36 New Style Steel Crownclasp,,,1,0,SCR,2012,Black Tuxedo Index, Smooth, Oyster, 5s, A
+Watch,W6546,W6546,Used,Rolex,16610,Z534701,Yes,Submariner,40mm,Steel,135.90g,GCI,LA - Main,Per/Pc,5102021,,05-10-2021,,"9,000.00","32,760.00","10,500.00","9,150.00",1,,,,,,1,0,Z,2007,Black Standard, Black Standard, Oyster, 4s, A
+Watch,W6547,W6547,Used,Rolex,116234,G549383,Yes,Datejust,36mm,Steel,116.70g,GCI,LA - Main,Per/Pc,5102021,"Doug Gruenberg, Inc.",05-10-2021,,"7,200.00","26,208.00","8,500.00","8,550.00",1,,,,,,1,0,G,2012,Black Diamond, Fluted WG, Jubilee D, 8s, A
+Watch,W6549,W6549,New NS,Rolex,126200,H62K4249,Yes,Datejust,36mm,Steel,118.90g,GCI,LA - Main,Per/Pc,5102021,"Doug Gruenberg, Inc.",05-10-2021,,"7,000.00","25,480.00","8,500.00","7,300.00",1,,,Datejust 36 New Style Steel Oysterclasp,,,1,0,SCR,2020,Blue Index, Smooth, Jubilee D, 11s, A
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

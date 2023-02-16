@@ -1,0 +1,5 @@
+Product Type,Current stock ID,Product name,Condition,Brand,Model Number,Serial,paper_cart,Category,size,metal,weight,partners,Warehouse,unit,Vendor Doc Number,Supplier,dop,tags,Product Cost,Cost Code,Sale Price,MSRP,Quantity,Gallery Images,Thumbnail image,description,external_link,google_link,published,featured,Serial LTR,Age,Dial,Bezel,Band,Screw Count,Band Grade
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Watch,W6716,W6716,Used,Rolex,116400,V787053,Yes,Milgauss,40mm,Steel PVD,152.80g,GCI,LA - Main,Per/Pc,16822,Time Passion Miami,7/14/2021,,"9,000.00","32,760.00",0,"8,300.00",1,,,Milgauss 40 Steel Black PVD,,,1,0,V,2010,Blacj Index, Smooth, Oyster, 5s, A

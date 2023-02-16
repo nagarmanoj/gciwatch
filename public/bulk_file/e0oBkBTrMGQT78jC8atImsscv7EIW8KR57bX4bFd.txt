@@ -1,0 +1,12 @@
+Product Type,Current stock ID,Product name,Condition,Brand,Model Number,Serial,paper_cart,Category,size,metal,weight,partners,Warehouse,unit,Vendor Doc Number,Supplier,dop,tags,Product Cost,Cost Code,Sale Price,MSRP,Quantity,Gallery Images,Thumbnail image,description,external_link,google_link,published,featured,Serial LTR,Age,Dial,Bezel,Band,Screw Count,Band Grade
+Watch,W6842,W6842,Used,Rolex,16233,X467475,Yes,Datejust,36mm,Steel and Yellow Gold,104.70g,GCI,LA - Main,Per/Pc,39911,Ookura,8/17/2021,,"5,100.00","18,564.00","5,850.00","11,900.00",1,,,Datejust 36 Quick Set Sapphire Two Tone,,,1,0,X,1991,Champagne Stick,Fluted YG, Jubilee D,7s, D
+Watch,W6844,W6844,Used,Rolex,16233,U525940,Yes,Datejust,36mm,Steel and Yellow Gold,54.30g,GCI,LA - Main,Per/Pc,39913,Ookura,08-10-2021,,"6,500.00","23,660.00","7,350.00","13,650.00",1,,,Datejust 36 Quick Set Sapphire Two Tone,,,1,0,U,1997,Blue Vignette Diamond,Fluted YG, Head only, HO, HO
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

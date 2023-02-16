@@ -1,0 +1,7 @@
+Product Type,Current stock ID,Product name,Condition,Brand,Model Number,Serial,paper_cart,Category,size,metal,weight,partners,Warehouse,unit,Vendor Doc Number,Supplier,dop,tags,Product Cost,Cost Code,Sale Price,MSRP,Quantity,Gallery Images,Thumbnail image,description,external_link,google_link,published,featured,Serial LTR,Age,Dial,Bezel,Band,Screw Count,Band Grade
+Watch,W6981,W6981,Used,Rolex,1803,1807653,No,Day Date,36mm,Yellow Gold,119.70g,GCI,LA - Main,Per/Pc,BuyBk 912456,,9/13/2021,,"7,500.00","27,300.00","17,000.00",0,1,,,Day-Date 36 Non Quick Plastic Yellow Gold,,,1,0,1M,1965,Champagne Diamond 8+2, Custom Diamond, President, 2s, C
+Watch,W6991,W6991,Used,Rolex,78273,U704237,Yes,Datejust,31mm,Steel and Yellow Gold,83.10g,GCI,LA - Main,Per/Pc,101321,Saxon's Diamond Centers,10/13/2021,,"6,500.00","23,660.00",0,"9,750.00",1,,,Datejust 31 Quick Set Two Tone,,,1,0,U,2005,Champagne MOP Roman,Fluted YG,Oyster,6s,A
+Watch,W6992,W6992,Used,Audemars Piguet,26020ST.OO.D091CR.01.A,F54944-7859,Yes,Royal Oak Offshore,42mm,Steel,152.70g,GCI,LA - Main,Per/Pc,Inv#202100183,DANG AND DANG PTE LTD,9/23/2021,,"20,500.00","74,620.00",0,0,1,,,Royal Oak Offshore 42 Steel,,,1,0,SCR,2006,White Tappiserie,Steel Standard,Leather,LTHR,LTHR
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

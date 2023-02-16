@@ -1,0 +1,3 @@
+Product Type,Current stock ID,Product name,Condition,Brand,Model Number,Serial,paper_cart,Category,size,metal,weight,partners,Warehouse,unit,Vendor Doc Number,Supplier,dop,tags,Product Cost,Cost Code,Sale Price,MSRP,Quantity,Gallery Images,Thumbnail image,description,external_link,google_link,published,featured,Serial LTR,Age,Dial,Bezel,Band,Screw Count,Band Grade
+Watch,W7120,W7120,Used,Rolex,6917,5892258,No,Datejust,26mm,Yellow Gold,79.90g,GCI,LA - Main,Per/Pc,None,Bhindi Jewelers,12-10-2020,,,0,0,0,1,,,Datejust 26 Non Quick Plastic Yellow Gold,,,1,0,5M,1978,Black Jubilee Diamond, Custom Diamond, President, 4s, A
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

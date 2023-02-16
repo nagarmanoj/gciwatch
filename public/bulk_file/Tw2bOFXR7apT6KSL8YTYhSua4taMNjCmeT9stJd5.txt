@@ -1,0 +1,18 @@
+Product Type,Current stock ID,Product name,Condition,Brand,Model Number,Serial,paper_cart,Category,size,metal,weight,partners,Warehouse,unit,Vendor Doc Number,Supplier,dop,tags,Product Cost,Cost Code,Sale Price,MSRP,Quantity,Gallery Images,Thumbnail image,description,external_link,google_link,published,featured,Serial LTR,Age,Dial,Bezel,Band,Screw Count,Band Grade
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Watch,W6551,W6551,Used,Audemars Piguet,26283ST.OO.D010CA.01,H24181-1225,Yes,Royal Oak Offshore Chronograph,37mm,Steel,117.50g,GCI,LA - Main,Per/Pc,None,,4/29/2021,,"16,500.00","60,060.00","19,000.00",0,1,,,Royal Oak Offshore 37 Chronograph Steel,,,1,0,SCR,Mix,White Tapisserie, Steel Standard, Rubber, RBR, RBR
+Watch,W6556,W6556,New NS,Rolex,126301,6UX27699,Yes,Datejust,40mm,Steel and Rose Gold,151.80g,GCI,LA - Main,Per/Pc,148,Authentic Lux,4/22/2021,,"12,500.00","45,500.00","14,500.00","12,800.00",1,,,Datejust 40 New Style Two Tone Oysterclasp,,,1,0,SCR,2021,Pink Index, Smooth, Oyster,7s, A
+Watch,W6567,W6567,Used,Rolex,126300,S8G37662,Yes,Datejust,40mm,Steel,118.89g,GCI,LA - Main,Per/Pc,,Rex Watches Llc.,5/18/2021,,"15,000.00","54,600.00",0,0,1,,,Datejust 40 New Style Steel Oysterclasp,,,1,0,SCR,2020,Custom Iced out,Custom Rainbow,Custom Iced Out Jubilee,10s,A
+Watch,W6568,W6568,Used,Rolex,126300,126DS522,Yes,Datejust,40mm,Steel,126.21g,GCI,LA - Main,Per/Pc,,Rex Watches Llc.,5/18/2021,,"14,500.00","52,780.00","21,500.00",0,1,,,Datejust 40 New Style Steel Oysterclasp,,,1,0,SCR,2017,Custom Iced out, Custom Diamond, Oyster, 6s, A
+Watch,W6576,W6576,Used,Rolex,68278,E141982,No,Datejust,31mm,Yellow Gold,40.60g,GCI,LA - Main,Per/Pc,BN-62319,,5/17/2021,,"11,800.00","42,952.00","14,500.00","28,850.00",1,,,Datejust 31 Quick Set Sapphire Yellow Gold,,,1,0,E,1990,Champagne Diamond,Fluted YG, Head only, HO, HO

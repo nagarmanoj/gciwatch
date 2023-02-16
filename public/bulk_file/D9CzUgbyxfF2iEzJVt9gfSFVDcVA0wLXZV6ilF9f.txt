@@ -1,0 +1,11 @@
+Product Type,Current stock ID,Product name,Condition,Brand,Model Number,Serial,paper_cart,Category,size,metal,weight,partners,Warehouse,unit,Vendor Doc Number,Supplier,dop,tags,Product Cost,Cost Code,Sale Price,MSRP,Quantity,Gallery Images,Thumbnail image,description,external_link,google_link,published,featured,Serial LTR,Age,Dial,Bezel,Band,Screw Count,Band Grade
+WatchP,WP999321,WP999321,Used,Rolex,16613T,F071955,No,Submariner,40mm,Steel and Yellow Gold,140.10g,H,LA - Main,Per/Pc,BuyBk 912474,Jonathan Ahoubim,11/19/2021,,"10,500.00","31,500.00",0,"14,300.00",1,,,Submariner 40 Non Ceramic Two Tone,,,1,0,F,2003,Blue Standard, Blue Standard, Oyster, 2s,B
+WatchP,WP999322,WP999322,Used,Rolex,16570,P362917 ,Yes,Explorer II,40mm,Steel,122.80g,H,LA - Main,Per/Pc,BuyBk 912474,Jonathan Ahoubim,11/19/2021,,"7,000.00","21,000.00",0,"8,550.00",1,,,Explorer II 40 Steel,,,1,0,P,2001,White Standard, Steel Standard, Oyster, 4s, A
+WatchP,WP999323,WP999323,Used,Rolex,16760,9622877,No,GMT-Master II,40mm,Steel,124.20g,H,LA - Main,Per/Pc,BuyBk 912474,Jonathan Ahoubim,11/19/2021,,"10,500.00","31,500.00",0,0,1,,,GMT-Master II Non Ceramic Steel,,,1,0,9M,1987,Black Standard, Black Standard, Oyster, 5s,B
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

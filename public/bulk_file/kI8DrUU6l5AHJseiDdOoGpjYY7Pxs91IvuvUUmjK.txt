@@ -1,0 +1,2 @@
+Product Type,Current stock ID,Product name,Condition,Brand,Model Number,Serial,paper_cart,Category,size,metal,weight,partners,Warehouse,unit,Vendor Doc Number,Supplier,dop,tags,Product Cost,Cost Code,Sale Price,MSRP,Quantity,Gallery Images,Thumbnail image,description,external_link,google_link,published,featured,Serial LTR,Age,Dial,Bezel,Band,Screw Count,Band Grade
+demo,w343,rtr,retr,tret,654645,645654,yes,fdg,10,goked,10,yes,,,,,02-06-2021,,6565,545,454,454,4,,,,,,1,1,swe,2011,,,,,

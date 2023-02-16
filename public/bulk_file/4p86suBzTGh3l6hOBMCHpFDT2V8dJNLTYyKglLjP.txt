@@ -1,0 +1,7 @@
+Product Type,Current stock ID,Product name,Condition,Brand,Model Number,Serial,paper_cart,Category,size,metal,weight,partners,Warehouse,unit,Vendor Doc Number,Supplier,dop,tags,Product Cost,Cost Code,Sale Price,MSRP,Quantity,Gallery Images,Thumbnail image,description,external_link,google_link,published,featured,Serial LTR,Age,Dial,Bezel,Band,Screw Count,Band Grade
+Watch,W7120,W7120,Used,Rolex,6917,5892258,No,Datejust,26mm,Yellow Gold,79.90g,GCI,LA - Main,Per/Pc,None,Bhindi Jewelers,12-10-2020,,,0,0,0,1,,,Datejust 26 Non Quick Plastic Yellow Gold,,,1,0,5M,1978,Black Jubilee Diamond, Custom Diamond, President, 4s, A
+Watch,W7125,W7125,Used,Rolex,68623,T784962,Yes,Yacht-Master,35mm,Steel and Yellow Gold,163.50g,GCI,LA - Main,Per/Pc,BuyBk 912482,Mr. Steve's Pawn Shop,12/13/2021,,"16,500.00","60,060.00",0,0,1,,,Yacht-Master 35 Two Tone,,,1,0,T,1997,White Standard, Standard YG, Oyster,7s, A
+Watch,W7132,W7132,New NS,Rolex,126300,20Q59452,Yes,Datejust,40mm,Steel,139.20g,GCI,LA - Main,Per/Pc,Invoice No.00002942,TWC Inc.,12/14/2021,,"9,500.00","34,580.00",0,"7,650.00",1,,,Datejust 40 New Style Steel,,,1,0,SCR,2021,Blue Roman, Smooth, Oyster,7s, A
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

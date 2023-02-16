@@ -1,0 +1,13 @@
+Product Type,Current stock ID,Product name,Condition,Brand,Model Number,Serial,paper_cart,Category,size,metal,weight,partners,Warehouse,unit,Vendor Doc Number,Supplier,dop,tags,Product Cost,Cost Code,Sale Price,MSRP,Quantity,Gallery Images,Thumbnail image,description,external_link,google_link,published,featured,Serial LTR,Age,Dial,Bezel,Band,Screw Count,Band Grade
+Watch,W7285,W7285,Used,Rolex,16013,7186413,No,Datejust,36mm,Steel and Yellow Gold,49.10g,GCI,LA - Main,Per/Pc,41133,Ookura,1/18/2022,,"4,300.00","15,652.00","7,000.00","12,000.00",1,,,Datejust 36 Quick Set Plastic Two Tone,,,1,0,7M,1981,Champagne Stick,Fluted YG, Head only, HO, HO
+Watch,W7286,W7286,Used,Rolex,179174,G203084,Yes,Datejust,26mm,Steel,67.80g,GCI,LA - Main,Per/Pc,41134,Ookura,1/18/2022,,"4,800.00","17,472.00",0,"8,050.00",1,,,Datejust 26 New Style Steel Crownclasp,,,1,0,G,2011,Black Index, Fluted WG,Jubilee,7s, A
+Watch,W7288,W7288,Used,Rolex,118209,Z070286,Yes,Day Date,36mm,White Gold,176.60g,GCI,LA - Main,Per/Pc,None,Harout,02-07-2022,,"25,000.00","91,000.00",0,"39,850.00",1,,,Day-Date 36 New Style White Gold Smooth Bezel,,,1,0,Z,2019,Blue Diamond 8+2, Smooth WG, President,7s, A
+Watch,W7290,W7290,Used,Rolex,116334,M3949644,No,Datejust,41mm,Steel,158.40g,GCI,LA - Main,Per/Pc,None,Craig Small,02-08-2022,,"11,000.00","40,040.00",0,0,1,,,Datejust 41 Steel ,,,1,0,SCR,Mix,Custom Black Diamond Roman, Custom Diamond, Oyster,7s, A
+Watch,W7291,W7291,New,Cartier,WSBB0048,4372181143BX,Yes,Ballon Bleu,36mm,Steel,111.80g,GCI,LA - Main,Per/Pc,2822,Ultra Wholesale Inc.,02-08-2022,,"4,500.00","16,380.00",0,"6,350.00",1,,,Ballon Bleu 36 Steel,,,1,0,SCR,2021,Silver Roman, Steel Standard, Steel Standard, 10L, A
+Watch,W7292,W7292,New,Cartier,WSTA0055,4323313151BX,Yes,Tank Must,33.7,Steel,31.80g,GCI,LA - Main,Per/Pc,2822,Ultra Wholesale Inc.,02-08-2022,,"3,250.00","11,830.00",0,0,1,,,Tank Must 33.7 Steel Blue,,,1,0,SCR,2021,Blue Standard, Steel Standard, Leather, LTHR, LTHR
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,70 @@
+/*your custom css goes here*/
+p.static_typ {
+    margin: auto 0 !important;
+}
+.iradio_square-blue {
+    display: flex !important;
+    align-items: center !important;
+}
+.cls_rnd_box {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: space-between !important;
+}
+p.dynamic_typ {
+    margin: auto 0 !important;
+}
+input#rnd_txt_custom1_Static {
+    transform: scale(2.5) !important;
+}
+.shadow-sm.rounded .text-left .mt-3 button {
+	padding: 10px 15px;
+	font-size: 14px !important;
+}
+.product_sec h6{
+    height:auto !important;
+}
+.order-xl-0 .list-group-flush .text-left .text-truncate-2 .text-reset {
+	font-weight: bold;
+	font-size: 14px;
+}
+#delete_section:hover{
+      background:blue !important;
+}
+.dataTables_filter .aiz-table td{
+    border:1px solid #ddd;
+}
+.dataTables_filter .aiz-table th{
+    border:1px solid #ddd;
+}
+
+.cls_multiimages {
+	display: inline-block;
+	width: 48%;
+}
+.cls_multiimage_ul {
+	padding: 0px;
+}
+#job_order_delete:hover, #job_order_export:hover {
+        background-color: #428bca !important;
+        color: #fff !important;
+}
+#job_order_delete, #job_order_export {
+        text-align: left;
+        padding-left: 20px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+}
+
+@media print {
+ body{
+     font-family: Poppins, Helvetica, sans-serif !important;
+       font-size: 20px !important;
+ }
+#micustomReturn {
+	width: 100%;
+}
+
+
+}
+

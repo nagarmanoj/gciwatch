@@ -1,0 +1,2 @@
+Product Type,Current stock ID,Product name,Condition,Brand,Model Number,Serial,paper_cart,Category,size,metal,weight,partners,Warehouse,unit,Vendor Doc Number,Supplier,dop,tags,Product Cost,Cost Code,Sale Price,MSRP,Quantity,Gallery Images,Thumbnail image,description,external_link,google_link,published,featured,Serial LTR,Age,Dial,Bezel,Band,Screw Count,Band Grade
+Watch,W7815,s9,New,Hours,126334,sku,yes,AP 42D,41mm,Platinum,50,GCI,LA - Main,Per/Pc,12345678,"Horus Watch Straps, LLC",04/20/2022,,245,891.8,,,1,,,,,,,,,,,,,,

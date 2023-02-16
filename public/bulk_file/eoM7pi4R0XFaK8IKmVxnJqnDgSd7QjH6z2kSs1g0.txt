@@ -1,0 +1,11 @@
+Product Type,Current stock ID,Product name,Condition,Brand,Model Number,Serial,paper_cart,Category,size,metal,weight,partners,Warehouse,unit,Vendor Doc Number,Supplier,dop,tags,Product Cost,Cost Code,Sale Price,MSRP,Quantity,Gallery Images,Thumbnail image,description,external_link,google_link,published,featured,Age,Dia Ct Wt,Stone Count,Stone Size
+BangleY,WY888558,WY888558,New,Cartier,B6048217,HYL478,Yes,Juste Un Clou,16cm,Yellow Gold,32.10g,Y,New York,Per/Pc,Buy Bk912696,Harout,03/02/2020,,5100,18564,7500,7500,1,,,Cartier Nail Bangle No Stone,,,1,0,2020,,,
+BangleY,WY888559,WY888559,New,Cartier,B6048217,IXF899,Yes,Juste Un Clou,16cm,Yellow Gold,32.50g,Y,New York,Per/Pc,Buy Bk912696,Harout,03/02/2020,,5100,18564,7500,7500,1,,,Cartier Nail Bangle No Stone,,,1,0,2020,,,
+BangleY,WY888560,WY888560,New,Cartier,B6048217,IDO810,Yes,Juste Un Clou,16cm,Yellow Gold,31.40g,Y,New York,Per/Pc,Buy Bk912696,Harout,03/02/2020,,5100,18564,7500,7500,1,,,Cartier Nail Bangle No Stone,,,1,0,2020,,,
+Bangle,B1542,B1542,New,Cartier,B6032417,JWQ682,Yes,Love,17cm,Yellow Gold,23.40g,GCI,LA - Main,Per/Pc,Inv451,Harout,01/28/2021,,3948,14370.72,4950,4950,1,,,Cartier Love Cuff No Stone,,,1,0,2021,,,
+Bangle,B1635,B1635,New,Cartier,B6035517,IAC159,No,Love,17cm,Yellow Gold,33.28g,GCI,LA - Main,Per/Pc,GCI 912347,Harout,07/21/2021,,5300,19292,6900,6900,1,,,Cartier Love Bangle No Stone,,,1,0,2021,,,
+Bangle,B1666,B1666,New,Cartier,LB RG 18,BTU293,Yes,Love,18cm,Rose Gold,28.50g,GCI,LA - Main,Per/Pc,1476,Harout,10/28/2021,,5865,21348.6,6900,6900,1,,,Cartier Love Bangle No Stone,,,1,0,2021,,,
+Bangle,B1669,B1669,Used,Cartier,B6048217,JFD453,Yes,Juste Un Clou,16cm,Yellow Gold,31.70g,GCI,LA - Main,Per/Pc,,Harout,11/09/2021,,5000,18200,7500,7500,1,,,Cartier Nail Bangle No Stone,,,1,0,2020,,,
+Bangle,B1670,B1670,Used,Cartier,B6035517,JRG275,Yes,Love,17cm,Yellow Gold,33.10g,GCI,LA - Main,Per/Pc,,Harout,11/09/2021,,4500,16380,6900,6900,1,,,Cartier Love Bangle No Stone,,,1,0,2020,,,
+Bangle,B1742,B1742,New,Cartier,B6036017,OBY556,Yes,Love,20cm,Rose Gold,37.50g,GCI,LA - Main,Per/Pc,,Harout,04/11/2022,,7000,25480,11100,11100,1,,,"Cartier Love Bangle 4 Diamond
+",,,1,0,2022,0.42,,

@@ -1,0 +1,51 @@
+Product Type,Current stock ID,Product name,Condition,Brand,Model Number,Serial,paper_cart,Category,size,metal,weight,partners,Warehouse,unit,Vendor Doc Number,Supplier,dop,tags,Product Cost,Cost Code,Sale Price,MSRP,Quantity,Gallery Images,Thumbnail image,description,external_link,google_link,published,featured,Serial LTR,Age,Dial,Bezel,Band,Screw Count,Band Grade
+WatchY,WY888839,WY888839,Used,Rolex,16613,S589033,Yes,Submariner,40mm,Steel and Yellow Gold,139.50g,Y,LA - Main,Per/Pc,,Happy Price,12/19/2017,,"6,600.00","19,800.00","12,550.00","14,100.00",1,,,Submariner Date Two Tone with Holes,,,1,0,S,1993,Black Standard, Black Standard, Oyster, 4s,B
+WatchY,WY888840,WY888840,Used,Rolex,16613,N260587,Yes,Submariner,40mm,Steel and Yellow Gold,132.00g,Y,LA - Main,Per/Pc,,Rex Watches Llc.,11/13/2017,,"8,000.00","24,000.00","12,550.00","14,100.00",1,,,Submariner Date TwoTone with Holes,,,1,0,N,1991,Blue Standard, Blue Standard, Oyster, 3s,B
+WatchY,WY888849,WY888849,Used,Audemars Piguet,26331OR.OO.1220OR.01,H64702-0477,No,Royal Oak Chronograph,42mm,Rose Gold,253.30g,Y,LA - Main,Per/Pc,11288,,10-08-2021,,"73,500.00","2,20,500.00",0,0,1,,,Royal Oak Chronograph 41 Rose Gold,,,1,0,SCR,Mix,Black Tapisserie Stick, Standard RG, Standard Rose Gold, 3s, A
+WatchY,WY888851,WY888851,New,Audemars Piguet,26595SR.OO.A032VE.01,FP7093W-3AZ82,Yes,Remaster01,40mm,Steel and Rose Gold,79.00g,Y,LA - Main,Per/Pc,BuyBk 912470,R&J Jewelry ans Loan,10/27/2021,,"45,000.00","1,35,000.00",0,"60,900.00",1,,,Remaster01 40 Chronograph,,,1,0,SCR,2021,Champagne Standard, Standard RG, Leather, LTHR, LTHR
+WatchY,WY888852,WY888852,Used,Rolex,178288,M810818,No,Datejust,31mm,Yellow Gold,139.90g,GCI,LA - Main,Per/Pc,,Fresno Coin Gallery,10/21/2021,,"25,000.00","75,000.00",0,"40,600.00",1,,,Datejust 31 Yellow Gold New Buckle,,,1,0,M,2007,Champagne Diamond,Diamond,President,9s,A
+WatchY,WY888855,WY888855,Used,Audemars Piguet,26470BA.OO.1000BA.01,J58961,Yes,Royal Oak Offshore,42mm,Yellow Gold,340.80g,Y,LA - Main,Per/Pc,BuyBk 912476,Felix Lee,11/29/2021,,"1,05,000.00","3,15,000.00",0,0,1,,,Royak Oak Offshore 42 Yellow Gold,,,1,0,J,Mix,Blue Tappiserie , Standard YG, Standard YG, 10s, A
+Watch,WY888857,WY888857,New,Patek Philippe,5980/1R-001,7297745-6329084,Yes,Nautilus,40.5mm,Rose Gold,254.40g,GCI,LA - Main,Per/Pc,BuyBk 912480,Mr. Timepiece LLC,12-09-2021,,"2,60,000.00","7,80,000.00",0,0,1,,,Nautilus 40 Rose Gold,,,1,0,SCR,2020,Black Standard,Standard RG,Standard Rose Gold,9s,A
+WatchY,WY888858,WY888858,Used,Rolex,116578,8Y2353W8,Yes,Daytona,,Yellow Gold,200.00g,Y,New York,Per/Pc,None,Watch Empire,01-10-2022,,"1,60,000.00","4,80,000.00","2,50,000.00",0,1,,,Daytona 40 Orage Sapphire Bezel Yellow Gold,,,1,0,SCR,Mix,White MOP Diamond,, Oyster,7s, A
+WatchY,WY888859,WY888859,New NS,Rolex,116515,63H07599,Yes,Daytona,40mm,Rose Gold,156.20g,GCI,New York,Per/Pc,None,Watch Empire,01-10-2022,,"40,000.00","1,20,000.00","50,000.00","30,500.00",1,,,Daytona 40 Rose Gold Oysterflex,,,1,0,SCR,Mix,Black Index, Black Ceramic Standard, Oysterflex, RBR, RBR
+WatchY,WY888860,WY888860,Used,Cartier,WSSA0009,4072135230YX,Yes,Santos,39.8mm,Steel Iced Out,0.00g,Y,LA - Retail,Per/Pc,None,Rex Watches Llc.,01-04-2022,,"13,000.00","39,000.00","19,500.00",0,1,,,Santos de Cartier 40 Steel Iced Out,,,1,0,SCR,2019,Full Pave Roman, Custom Diamond, Standard Icedout, 10s, A
+WatchY,WY888871,WY888871,Used,Rolex,126710BLNR,7W808648,Yes,GMT-Master II,40mm,Steel,0.00g,Y,LA - Main,Per/Pc,None,Watch Empire,1/25/2022,,"19,750.00","59,250.00",0,"10,750.00",1,,,GMT-Master II Ceramic Steel ,,,1,0,SCR,2020,Black Standard, Ceramic Standard,Jubilee, 9s, A
+WatchY,WY888873,WY888873,Used,Cartier,WGBB0005,3002453296VX,No,Ballon Bleu,33mm,Yellow Gold,0.00g,Y,New York,Per/Pc,None,Watch Empire,1/25/2022,,"14,000.00","42,000.00",0,0,1,,,Ballon Bleu 33 Yellow Gold,,,1,0,SCR,Mix,Silver Roman, Standard YG, Standard YG,, A
+WatchY,WY888876,WY888876,Used,Rolex,126711CHNR,K4863150,Yes,GMT-Master II,40mm,Steel and Rose Gold,0.00g,Y,New York,Per/Pc,None,Watch Empire,1/25/2022,,"26,000.00","78,000.00",0,"15,250.00",1,,,GMT-Master II Ceramic Two Tone,,,1,0,SCR,,Black Standard, Ceramic Standard, Oyster, 6s, A
+WatchY,WY888879,WY888879,Used,Cartier,W20010C5,0,No,Santos Galbée,29mm,Yellow Gold,97.10g,Y,LA - Main,Per/Pc,None,Adrian Argentina,1/24/2022,,"5,200.00","15,600.00",0,0,1,,,Santos Galbee 29 Yellow Gold,,,1,0,SCR,Mix,White Roman, Standard YG, Standard YG, 0s, A
+WatchY,WY888880,WY888880,Used,Patek Philippe,5980/1AR-001,5790208/4663839,Yes,Nautilus,40.5mm,Steel and Rose Gold,180.40g,Y,LA - Main,Per/Pc,None,ECJ Luxe Collection,02-11-2022,,"1,65,000.00","4,95,000.00","1,85,000.00",0,1,,,Nautilus 40.5 Two Tone,,,1,0,SCR,2014,Blue Standard, Standard RG, Standard, 6s, A
+WatchY,WY888881,WY888881,Used,Rolex,116505,5K695498,Yes,Daytona,40mm,Rose Gold,215.70g,Y,LA - Main,Per/Pc,18052,Time Passion Miami,2/23/2022,,"67,500.00","2,02,500.00",0,"40,450.00",1,,,Daytona 40 Rose Gold,,,1,0,SCR,2014,Chocolate Standard, Standard RG, Oyster,7s, A
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
