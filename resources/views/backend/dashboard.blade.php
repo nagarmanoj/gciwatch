@@ -1,5 +1,7 @@
 @extends('backend.layouts.app')
 
+<h1>Manoj kumar Nagar</h1>
+
 <style>
     .catgers_table td {
     width: 33.33%;
